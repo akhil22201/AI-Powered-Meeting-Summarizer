@@ -1,5 +1,11 @@
-.venv
+.venv/
 /flagged
 transcript.txt
 /whisper.cpp
 .DS_Store
+.gradio/
+*.pyc
+output.txt
+.ipynb_checkpoints/
+__pycache__/
+
