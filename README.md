@@ -45,7 +45,7 @@ Follow the steps below to set up and run the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/akhil22201/ai-meeting-summarizer.git
+git clone https://github.com/akhil22201/AI-Powered-Meeting-Summarizer.git
 cd AI-Powered-Meeting-Summarizer
 ```
 
